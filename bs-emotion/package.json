@@ -19,14 +19,14 @@
     "bsconfig.json"
   ],
   "peerDependencies": {
-    "bs-platform": "^7.0.1"
+    "rescript": "^11"
   },
   "dependencies": {
-    "@minima.app/re-css": "1.0.1",
+    "@minima.app/re-css": "adnelson/re-css#rescript-11",
     "emotion": "9.2.12"
   },
   "devDependencies": {
-    "bs-platform": "7.0.1"
+    "rescript": "^11"
   },
   "keywords": [
     "css",
